@@ -1,1 +1,1 @@
-# SQL_Project
+# SQL_Project - Marie Vrbová
